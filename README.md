@@ -1,5 +1,5 @@
 # bank-codes
-"Find the original password" assignment by Giedrius Zakaitis
+"Find the original password" assignment
 
 Bankai kartais prašo tam tikrų skaitinio slaptažodžio skaitmenų. Pvz.: jei slaptažodis 756984 ir bankas prašo antro, trečio ir šešto skaitmens, tai būtų atsakymas 564
 
